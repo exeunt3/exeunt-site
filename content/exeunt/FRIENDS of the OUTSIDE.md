@@ -1,8 +1,4 @@
 ---
-title: Friends of the Outside
-draft: 
-tags:
-  - book
 date: 2023-07-28
 author: Exeunt, Vengist
 ---

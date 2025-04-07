@@ -1,16 +1,21 @@
 ---
-title: Undercapital
-draft: 
-tags:
-  - article
 author: Exeunt, Open Protocol Research Group
 date: 2024-09-10
+tags:
+  - undercapital
+  - extitutions
+  - underground
+  - protocol-underground
+  - hardt-and-negri
+  - brian-massumi
+  - lsd
+  - gilles-deleuze
+  - Mikhail-Bakhtin
+  - henri-bergson
+  - cryptoeconomics
+  - mark-lakeman
+  - knowledge-commons-protocol
 ---
-### **Undercapital**
-
-*By Exeunt and the Open Protocol Research Group*
-
-
 *The following essay marks a significant expansion of both the open protocol strand of our research and the archival detour into what we have called “the protocol underground” that precedes it in this pamphlet. In it, we attempt to explain the behavior of the underground through the lens of the virtual, a philosophical concept for the real and materially embedded trace of potential that exists within or perhaps alongside the world of proper things. This trace is articulated in a polyphonic voice, laden with indeterminacy and subtlety. It resists mechanization. To perceive and generatively engage with it requires an atmosphere of nonviolence and open experimentation. For these reasons, it is anathema to institutions.* 
 
 *We propose to understand the behavior and strategic uniformity of the underground as the accumulation of spontaneous tactics for avoiding violent and mechanistic systems in order to approach, in a wide range of cultural forms, the virtual. Once established, we suggest a path forward to formalize economic systems around this underground intuition, proposing virtual capital as an orienting and generative frame for real economic games. Because it is expressed in intersubjective & relational fields rather than classical objects, building economic systems that prioritize virtual capital could require an overhaul of design thinking analogous to the overhaul of classical physics for the indeterminate field-mechanics of quantum physics. To cognize these forms may require an ontological ordeal, a conversion (of which there are many rumors in recent years). Lucky for us, we have the strategic intuition of the underground to follow, a world of intensive value we call undercapital.* 
