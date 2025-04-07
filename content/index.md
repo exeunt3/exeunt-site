@@ -1,8 +1,7 @@
 ---
 title: index
 draft: false
-tags:
-  - example-tag
+tags: []
 ---
 
 I also use GPT to emphasize that we live in a new age: where my at times lyrical or idiosyncratic exploratory prose was seen as a shortcoming, it is now clearly a virtue, an assertion that prose is about the work of thinking, and automation has all of the skills to come in and modulate on that thought-production in as much simplicity or nuance (or further thinking) as needed.
@@ -148,13 +147,3 @@ I also use GPT to emphasize that we live in a new age: where my at times lyrical
 </p>
 </details>
 [[Undercapital Redux]]
-
-### Anoma as a Framework for Undercapital Exploration
-(with Pam Pascual)
-
-This continuation of the _Undercapital_ project takes up the challenge of translating qualitative, relational, and process-driven dynamics into protocol design. Where the first essay established undercapital as a name for the recessive forces — affective, experiential, and intensive — that shape real-world social coordination but often evade institutional capture, Part Two looks to how these dynamics might be directly hosted within digital infrastructure. The Anoma protocol is explored as a case study in how decentralized systems might move beyond discrete transactions or efficiency metrics to instead facilitate modes of coordination grounded in presence, trust, rhythm, and soft intention. The goal is not to symbolically represent nondual experiences, but to build systems that can hold and respond to them in operational ways.
-
-Drawing on concepts like context-bound signaling, conditional intent expression, and compositional convergence, the essay outlines how a network could be structured to support temporary and emergent social formations — not only users and exchanges, but shared experiences that matter for their own sake. Protocols are framed less as logistical engines and more as scaffolding for situated interactions: rituals, ephemeral groups, affective collectives, or context-aware governance. By rethinking matching, logging, and execution in terms of resonance, memory, and collective sense-making, this work opens a pathway for building systems that align more closely with how people already coordinate meaningfully in unsupervised and experimental settings.
-
-[Unreleased]
-
